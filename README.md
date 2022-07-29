@@ -1,2 +1,2 @@
 # neck-scent-player
-挂脖式气味播放器
+脖戴式气味播放器
