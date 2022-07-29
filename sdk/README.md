@@ -14,6 +14,8 @@
 
 ### 主要功能
 
+连接设备：DevLink()
+
 播放气味：PlaySmell(int smellid, int durationtime)
 
 | 参数名 | 类型 | 说明 | 示例 |
