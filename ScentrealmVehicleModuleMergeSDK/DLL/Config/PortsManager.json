@@ -1,0 +1,41 @@
+{
+  "$type": "SKII.Communication.PortsManager, SKII.Communication",
+  "Ports": {
+    "$type": "System.Collections.Generic.List`1[[SKII.Communication.BaseBus, SKII.Communication]], mscorlib",
+    "$values": [
+      {
+        "$type": "SKII.Communication.Ports.SingleCommBus, SKII.Communication",
+        "CommName": "COM1",
+        "CommBaudRate": 19200,
+        "CommDataBits": 8,
+        "CommStopBits": 1,
+        "CommParity": 0,
+        "PortId": "dev1port",
+        "PortName": "串口通信(RS232),单个设备通信",
+        "PortDesc": "涡环炮1端口"
+      },
+      {
+        "$type": "SKII.Communication.Ports.SingleCommBus, SKII.Communication",
+        "CommName": "COM3",
+        "CommBaudRate": 115200,
+        "CommDataBits": 8,
+        "CommStopBits": 1,
+        "CommParity": 0,
+        "PortId": "dev2port",
+        "PortName": "串口通信(RS232),单个设备通信",
+        "PortDesc": "涡环炮2端口"
+      },
+      {
+        "$type": "SKII.Communication.Ports.SingleCommBus, SKII.Communication",
+        "CommName": "COM5",
+        "CommBaudRate": 115200,
+        "CommDataBits": 8,
+        "CommStopBits": 1,
+        "CommParity": 0,
+        "PortId": "dev3port",
+        "PortName": "串口通信(RS232),单个设备通信",
+        "PortDesc": "涡环炮3端口"
+      }
+    ]
+  }
+}

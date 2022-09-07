@@ -1,0 +1,77 @@
+{
+  "$type": "SKII.Devices.DeviceManager, SKII.Devices",
+  "DevicesList": {
+    "$type": "System.Collections.Generic.List`1[[SKII.Devices.Device, SKII.Devices]], mscorlib",
+    "$values": [
+      {
+        "$type": "SKII.Devices.Equips.OderModule, SKII.Devices",
+        "DevId": "dev2022031001",
+        "DevName": "涡环炮1",
+        "DevDesc": "涡环炮1",
+        "PortID": "dev1port",
+        "GroupID": "",
+        "DevType": 8,
+        "Protocol": {
+          "$type": "SKII.Protocols.RealizeProtocols.SmellKingdomProtocol, SKII.Protocols",
+          "InstructionCode": 0,
+          "DevType": 0,
+          "DevAddr": 0,
+          "TargetDevType": 0,
+          "TargetDevAddr": 0,
+          "ProtocolId": "P19955481",
+          "ProtocolName": "气味王国归一化协议",
+          "HaveLocalAddr": false,
+          "LocalAddr": 0,
+          "HaveRemoteAddr": false,
+          "RemoteAddr": 0
+        }
+      },
+      {
+        "$type": "SKII.Devices.Equips.OderModule, SKII.Devices",
+        "DevId": "dev2022031002",
+        "DevName": "涡环炮2",
+        "DevDesc": "涡环炮2",
+        "PortID": "dev2port",
+        "GroupID": "",
+        "DevType": 8,
+        "Protocol": {
+          "$type": "SKII.Protocols.RealizeProtocols.SmellKingdomProtocol, SKII.Protocols",
+          "InstructionCode": 0,
+          "DevType": 0,
+          "DevAddr": 0,
+          "TargetDevType": 0,
+          "TargetDevAddr": 0,
+          "ProtocolId": "P22821398",
+          "ProtocolName": "气味王国归一化协议",
+          "HaveLocalAddr": false,
+          "LocalAddr": 0,
+          "HaveRemoteAddr": false,
+          "RemoteAddr": 0
+        }
+      },
+      {
+        "$type": "SKII.Devices.Equips.OderModule, SKII.Devices",
+        "DevId": "dev2022031003",
+        "DevName": "涡环炮3",
+        "DevDesc": "涡环炮3",
+        "PortID": "dev3port",
+        "GroupID": "",
+        "DevType": 8,
+        "Protocol": {
+          "$type": "SKII.Protocols.RealizeProtocols.SmellKingdomProtocol, SKII.Protocols",
+          "InstructionCode": 0,
+          "DevType": 0,
+          "DevAddr": 0,
+          "TargetDevType": 0,
+          "TargetDevAddr": 0,
+          "ProtocolId": "Pd156981",
+          "ProtocolName": "气味王国归一化协议",
+          "HaveLocalAddr": false,
+          "LocalAddr": 0,
+          "HaveRemoteAddr": false,
+          "RemoteAddr": 0
+        }
+      }
+    ]
+  }
+}
