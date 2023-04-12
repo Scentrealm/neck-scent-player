@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScriptFiles>
+    <string>F:\vlc\a.srt</string>
+    <string>F:\vlc\a1.srt</string>
+    <string>F:\vlc\b.srt</string>
+    <string>F:\vlc\c.srt</string>
+    <string>F:\vlc\input.srt</string>
+    <string>F:\vlc\script.srt</string>
+    <string>F:\vlc\untitl萨达ed.srt</string>
+    <string>F:\vlc\猩球崛起3.srt</string>
+  </ScriptFiles>
+  <ServiceIPAddress>192.168.1.79</ServiceIPAddress>
+  <ServicePort>5000</ServicePort>
+  <AutoStartServer>true</AutoStartServer>
+  <ProtocolType>WebsocketHexLeap</ProtocolType>
+  <WebsocketPath />
+  <SmellFixedId>36</SmellFixedId>
+  <SmellIDBeginFrom>35</SmellIDBeginFrom>
+  <MonitorFile />
+</Settings>

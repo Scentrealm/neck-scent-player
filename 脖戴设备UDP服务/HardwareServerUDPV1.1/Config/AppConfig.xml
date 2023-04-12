@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<Devices>
+		<Device id="01" value="Dev20210818" chlnum="0"/>
+	</Devices>
+  <AutoStartBoot value="true"/>
+</Configuration>
