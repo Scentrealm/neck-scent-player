@@ -2,6 +2,13 @@
 
 气味王国各模块设备桌面版本SDK
 
+# BluetoothSDK 目录下为低功耗蓝牙模块SDK
+
+此SDK目前只适用于Win10系统
+
+蓝牙协议使用至少4.0版本，5.0版本经过测试也可以，在Windows设备管理器中，可以看到蓝牙模块，并有
+"Microsoft 蓝牙 LE 枚举器"或者有"LE"字样，说明支持低功耗
+
 # ScentrealmbccNeckWearSDK 目录下为脖戴式产品SDK
 
 无线通讯物理层
