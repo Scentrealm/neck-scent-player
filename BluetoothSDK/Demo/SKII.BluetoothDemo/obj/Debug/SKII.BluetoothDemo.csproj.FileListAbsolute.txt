@@ -1,0 +1,11 @@
+E:\MyProjects\SDKServer\Bluetooths\Product\Debug\SKII.BluetoothDemo.exe.config
+E:\MyProjects\SDKServer\Bluetooths\Product\Debug\SKII.BluetoothDemo.exe
+E:\MyProjects\SDKServer\Bluetooths\Product\Debug\SKII.BluetoothDemo.pdb
+E:\MyProjects\SDKServer\Bluetooths\SKII.BluetoothDemo\obj\Debug\SKII.BluetoothDemo.csproj.AssemblyReference.cache
+E:\MyProjects\SDKServer\Bluetooths\SKII.BluetoothDemo\obj\Debug\SKII.BluetoothDemo.mainFrm.resources
+E:\MyProjects\SDKServer\Bluetooths\SKII.BluetoothDemo\obj\Debug\SKII.BluetoothDemo.Properties.Resources.resources
+E:\MyProjects\SDKServer\Bluetooths\SKII.BluetoothDemo\obj\Debug\SKII.BluetoothDemo.csproj.GenerateResource.cache
+E:\MyProjects\SDKServer\Bluetooths\SKII.BluetoothDemo\obj\Debug\SKII.BluetoothDemo.csproj.CoreCompileInputs.cache
+E:\MyProjects\SDKServer\Bluetooths\SKII.BluetoothDemo\obj\Debug\SKII.BluetoothDemo.exe
+E:\MyProjects\SDKServer\Bluetooths\SKII.BluetoothDemo\obj\Debug\SKII.BluetoothDemo.pdb
+E:\MyProjects\SDKServer\Bluetooths\SKII.BluetoothDemo\obj\Debug\SKII.BluetoothDemo.csproj.CopyComplete
