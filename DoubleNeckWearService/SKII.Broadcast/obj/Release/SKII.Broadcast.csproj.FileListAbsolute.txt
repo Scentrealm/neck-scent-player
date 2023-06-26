@@ -1,0 +1,10 @@
+E:\MyProjects\GameProject\3Coding\HardwareService\Product\Release\SKII.Broadcast.exe.config
+E:\MyProjects\GameProject\3Coding\HardwareService\Product\Release\SKII.Broadcast.exe
+E:\MyProjects\GameProject\3Coding\HardwareService\Product\Release\SKII.Broadcast.pdb
+E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.mainFrm.resources
+E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.Properties.Resources.resources
+E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.csproj.GenerateResource.cache
+E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.csproj.CoreCompileInputs.cache
+E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.csproj.CopyComplete
+E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.exe
+E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.pdb

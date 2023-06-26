@@ -1,0 +1,7 @@
+E:\MyProjects\GameProject\3Coding\HardwareService\Product\Release\SRClient.exe.config
+E:\MyProjects\GameProject\3Coding\HardwareService\Product\Release\SRClient.exe
+E:\MyProjects\GameProject\3Coding\HardwareService\Product\Release\SRClient.pdb
+E:\MyProjects\GameProject\3Coding\HardwareService\SRClient\obj\Release\SRClient.csproj.CoreCompileInputs.cache
+E:\MyProjects\GameProject\3Coding\HardwareService\SRClient\obj\Release\SRClient.csproj.CopyComplete
+E:\MyProjects\GameProject\3Coding\HardwareService\SRClient\obj\Release\SRClient.exe
+E:\MyProjects\GameProject\3Coding\HardwareService\SRClient\obj\Release\SRClient.pdb
