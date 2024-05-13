@@ -1,28 +1,29 @@
-# neck-scent-player
+# 气味王国各模块设备桌面版本 SDK
 
-气味王国各模块设备桌面版本SDK
+# BluetoothSDK
 
-# BluetoothSDK 目录下为低功耗蓝牙模块SDK
-
-此SDK目前只适用于Win10系统
+低功耗蓝牙模块SDK, 此SDK目前只适用于Win10系统
 
 蓝牙协议使用至少4.0版本，5.0版本经过测试也可以，在Windows设备管理器中，可以看到蓝牙模块，并有
 "Microsoft 蓝牙 LE 枚举器"或者有"LE"字样，说明支持低功耗
 
-# ScentrealmbccNeckWearSDK 目录下为脖戴式产品SDK
+# ScentrealmbccNeckWearSDK
 
-无线通讯物理层
+脖戴式产品SDK，无线通讯物理层。协议物理层为无线通信，频段为433M，芯片为CC1101
 
-协议物理层为无线通信，频段为433M，芯片为CC1101
+# ScentrealmVehicleModuleSDK
 
-# ScentrealmVehicleModuleSDK 目录下为车载模块SDK
+车载模块SDK
+
 使用比较简单，引用SDK文件，导入示例代码，先连接设备，然后控制，最后不用时关闭连接断开
 连接设备：DevLink()
 播放气味：PlaySmell(int smellid, int durationtime)
 停止播放：StopPlaySmell()
 断开设备：DisConnect()
 
-# ScentrealmVehicleModuleMergeSDK 目录下为归一化模块SDK
+# ScentrealmVehicleModuleMergeSDK
+
+归一化模块SDK
 
 ## 数据包结构
 
