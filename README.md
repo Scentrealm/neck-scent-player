@@ -1,4 +1,4 @@
-# 气味王国各模块设备桌面版本 SDK
+# 气味王国 SDK
 
 # BluetoothSDK
 
@@ -10,6 +10,10 @@
 # ScentrealmbccNeckWearSDK
 
 脖戴式产品SDK，无线通讯物理层。协议物理层为无线通信，频段为433M，芯片为CC1101
+
+# 脖戴设备 Python SDK
+
+脖戴产品，另外提供了 [Python SDK](https://github.com/Scentrealm/neckwearsdks)
 
 # ScentrealmVehicleModuleSDK
 
